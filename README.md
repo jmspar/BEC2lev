@@ -1,3 +1,5 @@
+# Warning: this project has moved to gitlab.ulb.be
+
 # 2-level-Bose-Einstein-condensation
 A simple analytic model that illustrates the critical-temperature concept.
 
